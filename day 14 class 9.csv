@@ -1,0 +1,51 @@
+restaurant_id,item_name,price,cheapest_rn
+1,"Chicken Biryani",304,1
+2,"Fried Rice",187,1
+3,"Paneer Tikka",151,1
+4,"Paneer Tikka",226,1
+5,"Fish Curry",97,1
+6,"Paneer Tikka",129,1
+7,"Samosa Chaat",97,1
+8,"Chicken 65",240,1
+9,"Fish Curry",248,1
+10,Momos,102,1
+11,"Dal Tadka",407,1
+12,"Kadai Paneer",539,1
+13,"Paneer Tikka",220,1
+14,"Gulab Jamun",238,1
+15,"Masala Dosa",88,1
+16,"Chole Bhature",186,1
+17,"Pav Bhaji",380,1
+18,"Chicken 65",335,1
+19,"Fried Rice",504,1
+20,"Chole Bhature",112,1
+21,"Paneer Butter Masala",86,1
+22,"Fish Curry",132,1
+23,"Paneer Tikka",131,1
+24,"Fried Rice",112,1
+25,"Paneer Butter Masala",122,1
+26,"Gulab Jamun",95,1
+27,Momos,159,1
+28,"Aloo Paratha",338,1
+29,"Gulab Jamun",298,1
+30,"Pav Bhaji",110,1
+31,"Masala Dosa",317,1
+32,"Butter Chicken",127,1
+33,"Gulab Jamun",125,1
+34,"Chicken 65",140,1
+35,Momos,89,1
+36,Momos,118,1
+37,"Chicken Biryani",112,1
+38,"Aloo Paratha",193,1
+39,"Gulab Jamun",203,1
+40,"Paneer Butter Masala",157,1
+41,Momos,271,1
+42,"Aloo Paratha",353,1
+43,"Fish Curry",88,1
+44,"Fried Rice",96,1
+45,"Chicken Biryani",179,1
+46,"Idli Sambar",87,1
+47,"Chicken Biryani",97,1
+48,"Hakka Noodles",381,1
+49,"Chole Bhature",133,1
+50,"Masala Dosa",83,1
