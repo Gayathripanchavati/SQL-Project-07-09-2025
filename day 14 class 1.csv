@@ -1,0 +1,501 @@
+customer_name,customer_id,city,city_type
+"Vivaan Sharma",1,Ahmedabad,"non metro customer"
+"Vihaan Patel",2,Mumbai,metro_customer
+"Krishna Verma",3,Surat,"non metro customer"
+"Aarav Sharma",4,Mumbai,metro_customer
+"Vihaan Das",5,Surat,"non metro customer"
+"Krishna Reddy",6,Jaipur,"non metro customer"
+"Vihaan Nair",7,Surat,"non metro customer"
+"Aarav Patel",8,Kolkata,"non metro customer"
+"Arjun Patel",9,Hyderabad,"non metro customer"
+"Reyansh Verma",10,Mumbai,metro_customer
+"Vivaan Mehta",11,Pune,"non metro customer"
+"Arjun Sharma",12,Chennai,"non metro customer"
+"Vivaan Singh",13,Mumbai,metro_customer
+"Arjun Bhat",14,Pune,"non metro customer"
+"Vihaan Verma",15,Bangalore,"non metro customer"
+"Vihaan Gupta",16,Mumbai,metro_customer
+"Vihaan Verma",17,Kolkata,"non metro customer"
+"Sai Mehta",18,Delhi,metro_customer
+"Reyansh Reddy",19,Ahmedabad,"non metro customer"
+"Vivaan Bhat",20,Delhi,metro_customer
+"Vihaan Patel",21,Chennai,"non metro customer"
+"Arjun Das",22,Hyderabad,"non metro customer"
+"Reyansh Sharma",23,Hyderabad,"non metro customer"
+"Aarav Mehta",24,Kolkata,"non metro customer"
+"Vivaan Reddy",25,Surat,"non metro customer"
+"Reyansh Reddy",26,Chennai,"non metro customer"
+"Sai Patel",27,Ahmedabad,"non metro customer"
+"Vihaan Das",28,Jaipur,"non metro customer"
+"Ishaan Singh",29,Surat,"non metro customer"
+"Reyansh Reddy",30,Delhi,metro_customer
+"Sai Verma",31,Bangalore,"non metro customer"
+"Vivaan Patel",32,Delhi,metro_customer
+"Muhammad Bhat",33,Mumbai,metro_customer
+"Muhammad Bhat",34,Chennai,"non metro customer"
+"Arjun Das",35,Bangalore,"non metro customer"
+"Vivaan Das",36,Ahmedabad,"non metro customer"
+"Reyansh Verma",37,Ahmedabad,"non metro customer"
+"Aditya Nair",38,Bangalore,"non metro customer"
+"Arjun Das",39,Delhi,metro_customer
+"Vivaan Gupta",40,Jaipur,"non metro customer"
+"Vihaan Patel",41,Pune,"non metro customer"
+"Aditya Das",42,Jaipur,"non metro customer"
+"Ishaan Mehta",43,Chennai,"non metro customer"
+"Vivaan Mehta",44,Ahmedabad,"non metro customer"
+"Aarav Reddy",45,Surat,"non metro customer"
+"Vivaan Nair",46,Mumbai,metro_customer
+"Krishna Patel",47,Delhi,metro_customer
+"Sai Das",48,Delhi,metro_customer
+"Krishna Bhat",49,Kolkata,"non metro customer"
+"Krishna Reddy",50,Ahmedabad,"non metro customer"
+"Reyansh Nair",51,Jaipur,"non metro customer"
+"Vivaan Reddy",52,Hyderabad,"non metro customer"
+"Reyansh Sharma",53,Surat,"non metro customer"
+"Vihaan Bhat",54,Hyderabad,"non metro customer"
+"Vivaan Sharma",55,Hyderabad,"non metro customer"
+"Aarav Mehta",56,Mumbai,metro_customer
+"Vihaan Gupta",57,Chennai,"non metro customer"
+"Krishna Patel",58,Surat,"non metro customer"
+"Sai Reddy",59,Chennai,"non metro customer"
+"Muhammad Reddy",60,Mumbai,metro_customer
+"Muhammad Mehta",61,Kolkata,"non metro customer"
+"Sai Sharma",62,Mumbai,metro_customer
+"Muhammad Mehta",63,Mumbai,metro_customer
+"Vihaan Reddy",64,Jaipur,"non metro customer"
+"Aditya Singh",65,Delhi,metro_customer
+"Sai Reddy",66,Mumbai,metro_customer
+"Krishna Verma",67,Bangalore,"non metro customer"
+"Krishna Sharma",68,Mumbai,metro_customer
+"Vihaan Patel",69,Kolkata,"non metro customer"
+"Sai Reddy",70,Kolkata,"non metro customer"
+"Aditya Singh",71,Bangalore,"non metro customer"
+"Arjun Nair",72,Ahmedabad,"non metro customer"
+"Krishna Nair",73,Delhi,metro_customer
+"Arjun Reddy",74,Bangalore,"non metro customer"
+"Krishna Sharma",75,Pune,"non metro customer"
+"Aarav Bhat",76,Chennai,"non metro customer"
+"Krishna Patel",77,Bangalore,"non metro customer"
+"Vivaan Patel",78,Mumbai,metro_customer
+"Vivaan Reddy",79,Kolkata,"non metro customer"
+"Ishaan Reddy",80,Surat,"non metro customer"
+"Aarav Bhat",81,Mumbai,metro_customer
+"Ishaan Bhat",82,Jaipur,"non metro customer"
+"Arjun Reddy",83,Pune,"non metro customer"
+"Arjun Singh",84,Delhi,metro_customer
+"Arjun Nair",85,Pune,"non metro customer"
+"Vivaan Sharma",86,Chennai,"non metro customer"
+"Ishaan Verma",87,Mumbai,metro_customer
+"Vihaan Das",88,Ahmedabad,"non metro customer"
+"Reyansh Verma",89,Hyderabad,"non metro customer"
+"Arjun Patel",90,Chennai,"non metro customer"
+"Krishna Gupta",91,Surat,"non metro customer"
+"Krishna Sharma",92,Jaipur,"non metro customer"
+"Vivaan Patel",93,Ahmedabad,"non metro customer"
+"Vivaan Das",94,Delhi,metro_customer
+"Arjun Bhat",95,Hyderabad,"non metro customer"
+"Reyansh Reddy",96,Ahmedabad,"non metro customer"
+"Sai Gupta",97,Bangalore,"non metro customer"
+"Muhammad Gupta",98,Bangalore,"non metro customer"
+"Reyansh Patel",99,Ahmedabad,"non metro customer"
+"Sai Das",100,Kolkata,"non metro customer"
+"Aarav Verma",101,Mumbai,metro_customer
+"Aditya Das",102,Bangalore,"non metro customer"
+"Reyansh Bhat",103,Jaipur,"non metro customer"
+"Muhammad Patel",104,Bangalore,"non metro customer"
+"Reyansh Sharma",105,Pune,"non metro customer"
+"Vihaan Verma",106,Pune,"non metro customer"
+"Krishna Singh",107,Surat,"non metro customer"
+"Aditya Reddy",108,Delhi,metro_customer
+"Aditya Singh",109,Bangalore,"non metro customer"
+"Reyansh Singh",110,Hyderabad,"non metro customer"
+"Aditya Verma",111,Kolkata,"non metro customer"
+"Aarav Nair",112,Hyderabad,"non metro customer"
+"Sai Mehta",113,Ahmedabad,"non metro customer"
+"Vihaan Reddy",114,Bangalore,"non metro customer"
+"Vihaan Singh",115,Pune,"non metro customer"
+"Vivaan Gupta",116,Pune,"non metro customer"
+"Krishna Singh",117,Jaipur,"non metro customer"
+"Aarav Verma",118,Ahmedabad,"non metro customer"
+"Ishaan Gupta",119,Bangalore,"non metro customer"
+"Ishaan Singh",120,Pune,"non metro customer"
+"Reyansh Singh",121,Surat,"non metro customer"
+"Vivaan Singh",122,Surat,"non metro customer"
+"Arjun Sharma",123,Kolkata,"non metro customer"
+"Krishna Das",124,Hyderabad,"non metro customer"
+"Muhammad Verma",125,Pune,"non metro customer"
+"Reyansh Verma",126,Ahmedabad,"non metro customer"
+"Arjun Singh",127,Pune,"non metro customer"
+"Arjun Das",128,Delhi,metro_customer
+"Muhammad Singh",129,Delhi,metro_customer
+"Ishaan Gupta",130,Kolkata,"non metro customer"
+"Aarav Gupta",131,Ahmedabad,"non metro customer"
+"Muhammad Bhat",132,Surat,"non metro customer"
+"Reyansh Nair",133,Chennai,"non metro customer"
+"Vihaan Das",134,Chennai,"non metro customer"
+"Aditya Verma",135,Ahmedabad,"non metro customer"
+"Ishaan Mehta",136,Mumbai,metro_customer
+"Vihaan Gupta",137,Hyderabad,"non metro customer"
+"Vihaan Patel",138,Bangalore,"non metro customer"
+"Vihaan Nair",139,Surat,"non metro customer"
+"Vivaan Nair",140,Kolkata,"non metro customer"
+"Ishaan Reddy",141,Kolkata,"non metro customer"
+"Muhammad Reddy",142,Delhi,metro_customer
+"Aarav Verma",143,Kolkata,"non metro customer"
+"Aditya Das",144,Chennai,"non metro customer"
+"Krishna Reddy",145,Mumbai,metro_customer
+"Aditya Nair",146,Jaipur,"non metro customer"
+"Ishaan Mehta",147,Chennai,"non metro customer"
+"Krishna Singh",148,Jaipur,"non metro customer"
+"Aditya Nair",149,Chennai,"non metro customer"
+"Vihaan Gupta",150,Jaipur,"non metro customer"
+"Vihaan Gupta",151,Chennai,"non metro customer"
+"Arjun Reddy",152,Ahmedabad,"non metro customer"
+"Reyansh Das",153,Mumbai,metro_customer
+"Aditya Reddy",154,Kolkata,"non metro customer"
+"Aditya Reddy",155,Mumbai,metro_customer
+"Muhammad Mehta",156,Jaipur,"non metro customer"
+"Muhammad Sharma",157,Hyderabad,"non metro customer"
+"Muhammad Singh",158,Surat,"non metro customer"
+"Aarav Bhat",159,Kolkata,"non metro customer"
+"Aarav Mehta",160,Ahmedabad,"non metro customer"
+"Muhammad Singh",161,Jaipur,"non metro customer"
+"Krishna Bhat",162,Hyderabad,"non metro customer"
+"Vihaan Gupta",163,Kolkata,"non metro customer"
+"Aarav Singh",164,Pune,"non metro customer"
+"Muhammad Patel",165,Chennai,"non metro customer"
+"Ishaan Das",166,Bangalore,"non metro customer"
+"Ishaan Bhat",167,Bangalore,"non metro customer"
+"Muhammad Patel",168,Chennai,"non metro customer"
+"Aarav Gupta",169,Kolkata,"non metro customer"
+"Vihaan Nair",170,Pune,"non metro customer"
+"Muhammad Gupta",171,Kolkata,"non metro customer"
+"Vivaan Nair",172,Bangalore,"non metro customer"
+"Krishna Sharma",173,Pune,"non metro customer"
+"Vivaan Sharma",174,Bangalore,"non metro customer"
+"Vihaan Sharma",175,Surat,"non metro customer"
+"Vihaan Patel",176,Chennai,"non metro customer"
+"Vivaan Bhat",177,Hyderabad,"non metro customer"
+"Arjun Mehta",178,Delhi,metro_customer
+"Ishaan Verma",179,Delhi,metro_customer
+"Vivaan Bhat",180,Bangalore,"non metro customer"
+"Ishaan Singh",181,Kolkata,"non metro customer"
+"Vihaan Verma",182,Surat,"non metro customer"
+"Vihaan Verma",183,Ahmedabad,"non metro customer"
+"Ishaan Verma",184,Surat,"non metro customer"
+"Aarav Mehta",185,Jaipur,"non metro customer"
+"Reyansh Verma",186,Jaipur,"non metro customer"
+"Reyansh Sharma",187,Kolkata,"non metro customer"
+"Sai Verma",188,Kolkata,"non metro customer"
+"Sai Patel",189,Kolkata,"non metro customer"
+"Krishna Gupta",190,Surat,"non metro customer"
+"Krishna Nair",191,Chennai,"non metro customer"
+"Ishaan Gupta",192,Pune,"non metro customer"
+"Vihaan Verma",193,Ahmedabad,"non metro customer"
+"Sai Reddy",194,Chennai,"non metro customer"
+"Ishaan Singh",195,Pune,"non metro customer"
+"Sai Mehta",196,Delhi,metro_customer
+"Vihaan Mehta",197,Ahmedabad,"non metro customer"
+"Arjun Bhat",198,Ahmedabad,"non metro customer"
+"Aarav Das",199,Hyderabad,"non metro customer"
+"Vihaan Singh",200,Chennai,"non metro customer"
+"Vihaan Nair",201,Chennai,"non metro customer"
+"Aarav Verma",202,Ahmedabad,"non metro customer"
+"Muhammad Reddy",203,Ahmedabad,"non metro customer"
+"Ishaan Mehta",204,Chennai,"non metro customer"
+"Krishna Mehta",205,Kolkata,"non metro customer"
+"Krishna Mehta",206,Pune,"non metro customer"
+"Sai Gupta",207,Ahmedabad,"non metro customer"
+"Vihaan Verma",208,Hyderabad,"non metro customer"
+"Vivaan Das",209,Delhi,metro_customer
+"Vihaan Nair",210,Ahmedabad,"non metro customer"
+"Ishaan Das",211,Surat,"non metro customer"
+"Vivaan Reddy",212,Ahmedabad,"non metro customer"
+"Reyansh Patel",213,Ahmedabad,"non metro customer"
+"Krishna Patel",214,Ahmedabad,"non metro customer"
+"Aarav Das",215,Ahmedabad,"non metro customer"
+"Aditya Nair",216,Mumbai,metro_customer
+"Aarav Bhat",217,Ahmedabad,"non metro customer"
+"Sai Nair",218,Pune,"non metro customer"
+"Aarav Gupta",219,Chennai,"non metro customer"
+"Vivaan Singh",220,Chennai,"non metro customer"
+"Ishaan Sharma",221,Delhi,metro_customer
+"Ishaan Gupta",222,Mumbai,metro_customer
+"Vivaan Das",223,Kolkata,"non metro customer"
+"Ishaan Bhat",224,Hyderabad,"non metro customer"
+"Krishna Singh",225,Chennai,"non metro customer"
+"Arjun Bhat",226,Kolkata,"non metro customer"
+"Ishaan Bhat",227,Bangalore,"non metro customer"
+"Vivaan Reddy",228,Hyderabad,"non metro customer"
+"Vivaan Patel",229,Hyderabad,"non metro customer"
+"Krishna Verma",230,Delhi,metro_customer
+"Muhammad Nair",231,Surat,"non metro customer"
+"Arjun Sharma",232,Hyderabad,"non metro customer"
+"Arjun Nair",233,Mumbai,metro_customer
+"Vihaan Gupta",234,Surat,"non metro customer"
+"Vihaan Singh",235,Mumbai,metro_customer
+"Vihaan Patel",236,Ahmedabad,"non metro customer"
+"Aditya Verma",237,Bangalore,"non metro customer"
+"Arjun Bhat",238,Surat,"non metro customer"
+"Sai Verma",239,Chennai,"non metro customer"
+"Arjun Singh",240,Ahmedabad,"non metro customer"
+"Krishna Nair",241,Chennai,"non metro customer"
+"Ishaan Sharma",242,Kolkata,"non metro customer"
+"Reyansh Bhat",243,Ahmedabad,"non metro customer"
+"Vivaan Reddy",244,Surat,"non metro customer"
+"Aarav Gupta",245,Surat,"non metro customer"
+"Aditya Nair",246,Jaipur,"non metro customer"
+"Sai Gupta",247,Delhi,metro_customer
+"Muhammad Nair",248,Mumbai,metro_customer
+"Reyansh Singh",249,Pune,"non metro customer"
+"Vivaan Patel",250,Pune,"non metro customer"
+"Sai Gupta",251,Kolkata,"non metro customer"
+"Krishna Sharma",252,Chennai,"non metro customer"
+"Reyansh Gupta",253,Pune,"non metro customer"
+"Muhammad Das",254,Bangalore,"non metro customer"
+"Krishna Nair",255,Kolkata,"non metro customer"
+"Vihaan Das",256,Pune,"non metro customer"
+"Sai Nair",257,Bangalore,"non metro customer"
+"Arjun Das",258,Delhi,metro_customer
+"Sai Nair",259,Mumbai,metro_customer
+"Ishaan Reddy",260,Delhi,metro_customer
+"Krishna Sharma",261,Jaipur,"non metro customer"
+"Vivaan Reddy",262,Mumbai,metro_customer
+"Vivaan Patel",263,Chennai,"non metro customer"
+"Arjun Das",264,Ahmedabad,"non metro customer"
+"Sai Nair",265,Hyderabad,"non metro customer"
+"Krishna Patel",266,Kolkata,"non metro customer"
+"Ishaan Das",267,Delhi,metro_customer
+"Vivaan Gupta",268,Kolkata,"non metro customer"
+"Krishna Gupta",269,Bangalore,"non metro customer"
+"Arjun Bhat",270,Surat,"non metro customer"
+"Sai Patel",271,Chennai,"non metro customer"
+"Sai Mehta",272,Pune,"non metro customer"
+"Krishna Singh",273,Chennai,"non metro customer"
+"Vihaan Reddy",274,Surat,"non metro customer"
+"Vihaan Singh",275,Bangalore,"non metro customer"
+"Sai Singh",276,Kolkata,"non metro customer"
+"Aditya Nair",277,Bangalore,"non metro customer"
+"Krishna Bhat",278,Pune,"non metro customer"
+"Vivaan Nair",279,Mumbai,metro_customer
+"Sai Sharma",280,Delhi,metro_customer
+"Aditya Verma",281,Chennai,"non metro customer"
+"Arjun Mehta",282,Surat,"non metro customer"
+"Muhammad Verma",283,Pune,"non metro customer"
+"Krishna Singh",284,Pune,"non metro customer"
+"Sai Das",285,Bangalore,"non metro customer"
+"Vivaan Reddy",286,Ahmedabad,"non metro customer"
+"Vivaan Singh",287,Mumbai,metro_customer
+"Vivaan Nair",288,Delhi,metro_customer
+"Arjun Sharma",289,Bangalore,"non metro customer"
+"Aarav Gupta",290,Pune,"non metro customer"
+"Muhammad Patel",291,Hyderabad,"non metro customer"
+"Muhammad Bhat",292,Delhi,metro_customer
+"Aditya Verma",293,Surat,"non metro customer"
+"Muhammad Bhat",294,Hyderabad,"non metro customer"
+"Ishaan Patel",295,Hyderabad,"non metro customer"
+"Arjun Nair",296,Ahmedabad,"non metro customer"
+"Aarav Nair",297,Ahmedabad,"non metro customer"
+"Krishna Patel",298,Mumbai,metro_customer
+"Reyansh Bhat",299,Ahmedabad,"non metro customer"
+"Muhammad Gupta",300,Chennai,"non metro customer"
+"Arjun Reddy",301,Kolkata,"non metro customer"
+"Sai Verma",302,Hyderabad,"non metro customer"
+"Ishaan Mehta",303,Surat,"non metro customer"
+"Arjun Sharma",304,Kolkata,"non metro customer"
+"Aarav Bhat",305,Bangalore,"non metro customer"
+"Sai Gupta",306,Hyderabad,"non metro customer"
+"Reyansh Reddy",307,Hyderabad,"non metro customer"
+"Arjun Patel",308,Mumbai,metro_customer
+"Aarav Gupta",309,Chennai,"non metro customer"
+"Ishaan Mehta",310,Delhi,metro_customer
+"Arjun Mehta",311,Kolkata,"non metro customer"
+"Vihaan Patel",312,Jaipur,"non metro customer"
+"Reyansh Das",313,Jaipur,"non metro customer"
+"Aditya Gupta",314,Chennai,"non metro customer"
+"Arjun Mehta",315,Mumbai,metro_customer
+"Vivaan Patel",316,Hyderabad,"non metro customer"
+"Muhammad Das",317,Pune,"non metro customer"
+"Muhammad Sharma",318,Ahmedabad,"non metro customer"
+"Vivaan Nair",319,Pune,"non metro customer"
+"Arjun Bhat",320,Kolkata,"non metro customer"
+"Reyansh Verma",321,Hyderabad,"non metro customer"
+"Aarav Bhat",322,Jaipur,"non metro customer"
+"Ishaan Reddy",323,Mumbai,metro_customer
+"Sai Gupta",324,Kolkata,"non metro customer"
+"Aditya Sharma",325,Bangalore,"non metro customer"
+"Sai Verma",326,Mumbai,metro_customer
+"Krishna Patel",327,Kolkata,"non metro customer"
+"Reyansh Das",328,Kolkata,"non metro customer"
+"Aditya Singh",329,Mumbai,metro_customer
+"Sai Bhat",330,Kolkata,"non metro customer"
+"Aarav Mehta",331,Hyderabad,"non metro customer"
+"Sai Reddy",332,Pune,"non metro customer"
+"Reyansh Das",333,Pune,"non metro customer"
+"Muhammad Gupta",334,Hyderabad,"non metro customer"
+"Sai Verma",335,Hyderabad,"non metro customer"
+"Ishaan Sharma",336,Bangalore,"non metro customer"
+"Reyansh Reddy",337,Delhi,metro_customer
+"Ishaan Reddy",338,Mumbai,metro_customer
+"Krishna Reddy",339,Surat,"non metro customer"
+"Vihaan Mehta",340,Delhi,metro_customer
+"Ishaan Sharma",341,Ahmedabad,"non metro customer"
+"Aditya Patel",342,Jaipur,"non metro customer"
+"Aditya Verma",343,Bangalore,"non metro customer"
+"Aarav Mehta",344,Hyderabad,"non metro customer"
+"Reyansh Sharma",345,Delhi,metro_customer
+"Aarav Patel",346,Kolkata,"non metro customer"
+"Vivaan Verma",347,Chennai,"non metro customer"
+"Reyansh Das",348,Surat,"non metro customer"
+"Sai Das",349,Hyderabad,"non metro customer"
+"Aarav Das",350,Ahmedabad,"non metro customer"
+"Aarav Sharma",351,Chennai,"non metro customer"
+"Muhammad Singh",352,Mumbai,metro_customer
+"Sai Verma",353,Mumbai,metro_customer
+"Ishaan Patel",354,Mumbai,metro_customer
+"Arjun Bhat",355,Surat,"non metro customer"
+"Reyansh Singh",356,Surat,"non metro customer"
+"Arjun Nair",357,Jaipur,"non metro customer"
+"Muhammad Verma",358,Mumbai,metro_customer
+"Krishna Reddy",359,Kolkata,"non metro customer"
+"Vihaan Singh",360,Pune,"non metro customer"
+"Sai Singh",361,Kolkata,"non metro customer"
+"Vivaan Mehta",362,Kolkata,"non metro customer"
+"Arjun Mehta",363,Delhi,metro_customer
+"Sai Verma",364,Mumbai,metro_customer
+"Vivaan Verma",365,Kolkata,"non metro customer"
+"Reyansh Patel",366,Jaipur,"non metro customer"
+"Ishaan Das",367,Jaipur,"non metro customer"
+"Vivaan Singh",368,Pune,"non metro customer"
+"Muhammad Sharma",369,Ahmedabad,"non metro customer"
+"Arjun Mehta",370,Mumbai,metro_customer
+"Krishna Reddy",371,Delhi,metro_customer
+"Sai Reddy",372,Mumbai,metro_customer
+"Krishna Mehta",373,Mumbai,metro_customer
+"Arjun Bhat",374,Hyderabad,"non metro customer"
+"Muhammad Das",375,Surat,"non metro customer"
+"Krishna Sharma",376,Surat,"non metro customer"
+"Arjun Sharma",377,Delhi,metro_customer
+"Arjun Mehta",378,Pune,"non metro customer"
+"Aditya Patel",379,Surat,"non metro customer"
+"Muhammad Verma",380,Delhi,metro_customer
+"Aarav Verma",381,Jaipur,"non metro customer"
+"Muhammad Singh",382,Chennai,"non metro customer"
+"Aditya Mehta",383,Ahmedabad,"non metro customer"
+"Reyansh Bhat",384,Surat,"non metro customer"
+"Aarav Patel",385,Delhi,metro_customer
+"Ishaan Sharma",386,Mumbai,metro_customer
+"Sai Singh",387,Chennai,"non metro customer"
+"Sai Singh",388,Ahmedabad,"non metro customer"
+"Krishna Verma",389,Pune,"non metro customer"
+"Vivaan Gupta",390,Surat,"non metro customer"
+"Krishna Gupta",391,Bangalore,"non metro customer"
+"Muhammad Bhat",392,Bangalore,"non metro customer"
+"Vihaan Gupta",393,Hyderabad,"non metro customer"
+"Aditya Gupta",394,Ahmedabad,"non metro customer"
+"Vivaan Sharma",395,Chennai,"non metro customer"
+"Muhammad Patel",396,Delhi,metro_customer
+"Krishna Reddy",397,Jaipur,"non metro customer"
+"Reyansh Verma",398,Kolkata,"non metro customer"
+"Aarav Singh",399,Bangalore,"non metro customer"
+"Vivaan Mehta",400,Surat,"non metro customer"
+"Ishaan Singh",401,Kolkata,"non metro customer"
+"Vivaan Singh",402,Bangalore,"non metro customer"
+"Aditya Bhat",403,Chennai,"non metro customer"
+"Reyansh Verma",404,Kolkata,"non metro customer"
+"Vivaan Reddy",405,Kolkata,"non metro customer"
+"Muhammad Das",406,Mumbai,metro_customer
+"Arjun Mehta",407,Hyderabad,"non metro customer"
+"Aditya Verma",408,Jaipur,"non metro customer"
+"Vivaan Das",409,Jaipur,"non metro customer"
+"Reyansh Mehta",410,Delhi,metro_customer
+"Vivaan Patel",411,Ahmedabad,"non metro customer"
+"Aditya Bhat",412,Delhi,metro_customer
+"Vivaan Patel",413,Chennai,"non metro customer"
+"Ishaan Bhat",414,Chennai,"non metro customer"
+"Ishaan Bhat",415,Pune,"non metro customer"
+"Reyansh Patel",416,Chennai,"non metro customer"
+"Sai Nair",417,Ahmedabad,"non metro customer"
+"Arjun Bhat",418,Bangalore,"non metro customer"
+"Krishna Verma",419,Ahmedabad,"non metro customer"
+"Sai Sharma",420,Bangalore,"non metro customer"
+"Arjun Verma",421,Mumbai,metro_customer
+"Ishaan Das",422,Kolkata,"non metro customer"
+"Ishaan Das",423,Bangalore,"non metro customer"
+"Ishaan Reddy",424,Pune,"non metro customer"
+"Sai Das",425,Delhi,metro_customer
+"Sai Verma",426,Pune,"non metro customer"
+"Vivaan Das",427,Delhi,metro_customer
+"Vihaan Nair",428,Chennai,"non metro customer"
+"Krishna Bhat",429,Delhi,metro_customer
+"Reyansh Gupta",430,Kolkata,"non metro customer"
+"Reyansh Bhat",431,Bangalore,"non metro customer"
+"Reyansh Verma",432,Pune,"non metro customer"
+"Krishna Singh",433,Ahmedabad,"non metro customer"
+"Ishaan Patel",434,Pune,"non metro customer"
+"Ishaan Patel",435,Pune,"non metro customer"
+"Muhammad Patel",436,Surat,"non metro customer"
+"Vivaan Gupta",437,Jaipur,"non metro customer"
+"Reyansh Patel",438,Jaipur,"non metro customer"
+"Muhammad Das",439,Pune,"non metro customer"
+"Reyansh Gupta",440,Delhi,metro_customer
+"Reyansh Nair",441,Hyderabad,"non metro customer"
+"Aditya Patel",442,Mumbai,metro_customer
+"Vivaan Das",443,Jaipur,"non metro customer"
+"Krishna Sharma",444,Pune,"non metro customer"
+"Ishaan Patel",445,Surat,"non metro customer"
+"Aditya Patel",446,Delhi,metro_customer
+"Ishaan Patel",447,Chennai,"non metro customer"
+"Muhammad Mehta",448,Hyderabad,"non metro customer"
+"Ishaan Gupta",449,Chennai,"non metro customer"
+"Krishna Reddy",450,Ahmedabad,"non metro customer"
+"Sai Reddy",451,Pune,"non metro customer"
+"Ishaan Nair",452,Chennai,"non metro customer"
+"Arjun Singh",453,Jaipur,"non metro customer"
+"Muhammad Patel",454,Hyderabad,"non metro customer"
+"Ishaan Patel",455,Ahmedabad,"non metro customer"
+"Sai Mehta",456,Jaipur,"non metro customer"
+"Krishna Verma",457,Ahmedabad,"non metro customer"
+"Aditya Gupta",458,Chennai,"non metro customer"
+"Aditya Singh",459,Mumbai,metro_customer
+"Sai Mehta",460,Bangalore,"non metro customer"
+"Aarav Singh",461,Jaipur,"non metro customer"
+"Vihaan Singh",462,Mumbai,metro_customer
+"Vihaan Sharma",463,Pune,"non metro customer"
+"Reyansh Patel",464,Delhi,metro_customer
+"Arjun Nair",465,Delhi,metro_customer
+"Sai Nair",466,Surat,"non metro customer"
+"Vivaan Sharma",467,Ahmedabad,"non metro customer"
+"Aditya Das",468,Surat,"non metro customer"
+"Muhammad Verma",469,Ahmedabad,"non metro customer"
+"Arjun Verma",470,Bangalore,"non metro customer"
+"Muhammad Bhat",471,Chennai,"non metro customer"
+"Vivaan Nair",472,Surat,"non metro customer"
+"Aarav Das",473,Surat,"non metro customer"
+"Aditya Gupta",474,Kolkata,"non metro customer"
+"Ishaan Mehta",475,Hyderabad,"non metro customer"
+"Muhammad Patel",476,Mumbai,metro_customer
+"Reyansh Verma",477,Jaipur,"non metro customer"
+"Krishna Das",478,Jaipur,"non metro customer"
+"Muhammad Nair",479,Bangalore,"non metro customer"
+"Muhammad Mehta",480,Ahmedabad,"non metro customer"
+"Aarav Mehta",481,Mumbai,metro_customer
+"Vihaan Verma",482,Surat,"non metro customer"
+"Reyansh Patel",483,Bangalore,"non metro customer"
+"Krishna Mehta",484,Delhi,metro_customer
+"Sai Nair",485,Delhi,metro_customer
+"Aditya Verma",486,Chennai,"non metro customer"
+"Arjun Reddy",487,Bangalore,"non metro customer"
+"Vihaan Sharma",488,Pune,"non metro customer"
+"Krishna Singh",489,Jaipur,"non metro customer"
+"Arjun Sharma",490,Hyderabad,"non metro customer"
+"Reyansh Sharma",491,Pune,"non metro customer"
+"Vivaan Mehta",492,Kolkata,"non metro customer"
+"Muhammad Nair",493,Kolkata,"non metro customer"
+"Aditya Nair",494,Chennai,"non metro customer"
+"Krishna Gupta",495,Mumbai,metro_customer
+"Muhammad Verma",496,Kolkata,"non metro customer"
+"Aditya Das",497,Ahmedabad,"non metro customer"
+"Vivaan Verma",498,Pune,"non metro customer"
+"Arjun Gupta",499,Chennai,"non metro customer"
+"Muhammad Patel",500,Chennai,"non metro customer"
